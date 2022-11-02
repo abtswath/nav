@@ -1,48 +1,25 @@
 [
   {
-    "id": "anime",
-    "title": "番剧",
+    "id": "community",
+    "title": "社区",
     "navs": [
       {
-        "title": "蜜柑计划",
-        "url": "https://mikanani.me/",
-        "description": "蜜柑计划：新一代的动漫下载站",
-        "icon": "/static/mikanani.png"
+        "title": "V2EX",
+        "url": "https://www.v2ex.com/",
+        "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+        "icon": "/static/v2ex.png"
       },
       {
-        "title": "樱花动漫",
-        "url": "https://www.yhdmp.live/",
-        "description": "樱花动漫(pan)——支持网盘下载的樱花动漫，动漫免费在线观看，免费下载，无需注册，更新及时，我们致力打造最好的樱花动漫站！",
-        "icon": "/static/yhdm.ico"
+        "title": "Hacker News",
+        "url": "https://news.ycombinator.com/",
+        "description": "Hacker News",
+        "icon": "/static/hacker-news.ico"
       },
       {
-        "title": "AGE动漫",
-        "url": "https://www.agemys.net/",
-        "description": "AGE动漫专注于资源收集整理 海量的有效的高质量的动漫资源下载 动漫百度网盘下载",
-        "icon": "/static/agemys.ico"
-      }
-    ]
-  },
-  {
-    "id": "wallpaper",
-    "title": "壁纸",
-    "navs": [
-      {
-        "title": "wallhaven",
-        "url": "https://wallhaven.cc/",
-        "icon": "/static/wallhaven.ico",
-        "description": "Your source for the best high quality wallpapers on the Net!"
-      }
-    ]
-  },
-  {
-    "id": "learn",
-    "title": "学习",
-    "navs": [
-      {
-        "title": "db tutorial",
-        "url": "https://cstack.github.io/db_tutorial/",
-        "description": "Let's Build a Simple Database."
+        "title": "Product Hunt",
+        "url": "https://www.producthunt.com/",
+        "description": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about.",
+        "icon": "/static/product-hunt.jfif"
       }
     ]
   },
@@ -71,24 +48,6 @@
     ]
   },
   {
-    "id": "community",
-    "title": "社区",
-    "navs": [
-      {
-        "title": "V2EX",
-        "url": "https://www.v2ex.com/",
-        "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
-        "icon": "/static/v2ex.png"
-      },
-      {
-        "title": "Hacker News",
-        "url": "https://news.ycombinator.com/",
-        "description": "Hacker News",
-        "icon": "/static/hacker-news.ico"
-      }
-    ]
-  },
-  {
     "id": "blog",
     "title": "博客",
     "navs": [
@@ -103,6 +62,94 @@
       {
         "title": "面向信仰编程",
         "url": "https://draveness.me/"
+      }
+    ]
+  },
+  {
+    "id": "learn",
+    "title": "学习",
+    "navs": [
+      {
+        "title": "db tutorial",
+        "url": "https://cstack.github.io/db_tutorial/",
+        "description": "Let's Build a Simple Database."
+      }
+    ]
+  },
+  {
+    "id": "tools",
+    "title": "工具",
+    "navs": [
+      {
+        "title": "在线PS",
+        "url": "https://ps.gaoding.com/",
+        "description": "稿定设计PS是一款专业精简的在线ps图片处理软件，免下载、免安装，直接在浏览器打开网页版就可随时随地用它修正，调整和美化您的图片。",
+        "icon": "/static/ps-gaoding.ico"
+      },
+      {
+        "title": "MSDN, 我告诉你",
+        "url": "https://msdn.itellyou.cn/",
+        "description": "MSDN, 我告诉你",
+        "icon": "/static/msdn-itellyou.ico"
+      },
+      {
+        "title": "Be JSON",
+        "url": "https://www.bejson.com/",
+        "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具",
+        "icon": "/static/bejson.ico"
+      }
+    ]
+  },
+  {
+    "id": "anime",
+    "title": "番剧",
+    "navs": [
+      {
+        "title": "蜜柑计划",
+        "url": "https://mikanani.me/",
+        "description": "蜜柑计划：新一代的动漫下载站",
+        "icon": "/static/mikanani.png"
+      },
+      {
+        "title": "樱花动漫",
+        "url": "https://www.yhdmp.live/",
+        "description": "樱花动漫(pan)——支持网盘下载的樱花动漫，动漫免费在线观看，免费下载，无需注册，更新及时，我们致力打造最好的樱花动漫站！",
+        "icon": "/static/yhdm.ico"
+      },
+      {
+        "title": "AGE动漫",
+        "url": "https://www.agemys.net/",
+        "description": "AGE动漫专注于资源收集整理 海量的有效的高质量的动漫资源下载 动漫百度网盘下载",
+        "icon": "/static/agemys.ico"
+      },
+      {
+        "title": "ZzzFun动漫视频网 - (￣﹃￣)~zZZ",
+        "url": "http://www.zzzfun.com/",
+        "description": "提供最新最快的动漫新番资讯和在线播放，开心看动漫，无圣骑、无暗牧"
+      }
+    ]
+  },
+  {
+    "id": "tv",
+    "title": "影视",
+    "navs": [
+      {
+        "title": "人人影视",
+        "url": "https://yyets.dmesg.app/",
+        "description": "开源，免费，人人备胎^_^ Web Design by Zuiyu",
+        "icon": "/static/yyets.svg"
+      }
+    ]
+  },
+  {
+    "id": "wallpaper",
+    "title": "壁纸",
+    "navs": [
+      {
+        "title": "wallhaven",
+        "url": "https://wallhaven.cc/",
+        "icon": "/static/wallhaven.ico",
+        "description": "Your source for the best high quality wallpapers on the Net!"
       }
     ]
   }
