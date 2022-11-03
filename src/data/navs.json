@@ -97,6 +97,12 @@
         "url": "https://www.bejson.com/",
         "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具",
         "icon": "/static/bejson.ico"
+      },
+      {
+        "title": "阿里云盘资源共享站",
+        "url": "https://newxiaozhan.com/",
+        "description": "阿里小站论坛，阿里云盘资源站，阿里云盘论坛",
+        "icon": "/static/newxiaozhan.ico"
       }
     ]
   },
