@@ -44,6 +44,11 @@
         "url": "https://jikipedia.com/",
         "icon": "/static/jikipedia.png",
         "description": "小鸡词典，是一个基于梗文化的娱乐科普社区。在这里可以紧跟网络热梗，发现新鲜爆笑梗图，遇到不懂的梗还可以快速查询含义。这里没有谜语人，没有小编体，无论是拼音缩写还是小众黑话，都可以帮你答疑解惑，是网上冲浪的必备手册。"
+      },
+      {
+        "title": "The Tolkien Estate",
+        "url": "https://www.tolkienestate.com/",
+        "icon": "tolkienestate.webp"
       }
     ]
   },
