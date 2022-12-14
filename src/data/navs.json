@@ -49,6 +49,11 @@
         "title": "The Tolkien Estate",
         "url": "https://www.tolkienestate.com/",
         "icon": "/static/tolkienestate.webp"
+      },
+      {
+        "title": "Excalidraw",
+        "url": "https://excalidraw.com/",
+        "icon": "/static/excalidraw.png"
       }
     ]
   },
