@@ -158,6 +158,11 @@
         "url": "https://yyets.dmesg.app/",
         "description": "开源，免费，人人备胎^_^ Web Design by Zuiyu",
         "icon": "/static/yyets.svg"
+      },
+      {
+        "title": "TMDB",
+        "url": "https://www.themoviedb.org/",
+        "description": "The Movie Database (TMDB) is a popular, user editable database for movies and TV shows."
       }
     ]
   },
