@@ -16,7 +16,7 @@ const sleep = (millseconds: number) => {
 }
 
 const getNavGroups = async () => {
-    const response = await fetch(`https://api.github.com/gists/${GIST_ID}`);
+    const response = await fetch(`https://gist.abtswath.com/${GIST_ID}`);
     const data = await response.json();
     // await sleep(1000 * 100);
     return JSON.parse(data?.files['nav.json']?.content) as unknown as INavGroup[];
