@@ -12,14 +12,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
+        
       - name: Install dependencies and build
-        run: npm install pnpm -g && pnpm install && pnpm build
+        run: pnpm/action-setup@v2
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
