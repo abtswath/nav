@@ -13,8 +13,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         
-      - name: Install dependencies and build
+      - name: Setup pnpm
         uses: pnpm/action-setup@v2
+        with:
+          version: 8
+          
+      - name: Install dependencies and build
+        run: pnpm install && pnpm build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
